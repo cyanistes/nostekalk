@@ -1,0 +1,25 @@
+body {
+  font-family: arial;
+}
+
+div {
+  font-size: 2rem;
+}
+
+input[type="number"] {
+  font-size: 3rem;
+  padding: 0.5rem;
+}
+
+label {
+  display: block;
+}
+
+.container {
+  display: grid;
+}
+
+#outputnumber {
+  font-size: 3rem;
+  padding: 0.5rem;
+}
